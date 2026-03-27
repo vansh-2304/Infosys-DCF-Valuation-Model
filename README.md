@@ -9,6 +9,12 @@
 > analysis, credit metrics, and sentiment research.
 
 ---
+## 📸 Preview
+
+![Model Preview](preview.png)
+![Model Preview](preview(comps).png)
+
+---
 
 ## 📁 File
 
