@@ -79,7 +79,7 @@
 
 **Vansh Goyal**
 - 📧 [vggoyal2304@gmail.com]
-- 💼 [LinkedIn URL]
+- 💼 [www.linkedin.com/in/vansh-goyal-fin]
 
 ---
 
